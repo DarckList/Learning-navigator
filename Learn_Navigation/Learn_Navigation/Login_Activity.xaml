@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Learn_Navigation"
+             x:Class="Learn_Navigation.Login_Activity">
+    <ScrollView>
+    <StackLayout BackgroundColor="White">
+        <Image Source="logo.png" />
+        <Label HorizontalTextAlignment="Center"
+               TextColor="blue"
+               Text="Вітаю! Обери предмети, які ти будеш вивчати на 4 курсі."
+               Font="36"/>
+        <Entry x:Name="Name"
+               TextColor="Blue"
+               PlaceholderColor="Blue"
+               TextChanged="Name_TextChanged"
+               Placeholder="Ім'я"/>
+        <Entry x:Name="Surname"
+               TextColor="Blue"
+               PlaceholderColor="Blue"
+               TextChanged="Surname_TextChanged"
+               Placeholder="Прізвище"/>
+        <Button x:Name="ChoiceSubjects"
+                BackgroundColor="Blue"
+                Text="ОБРАТИ ПРЕДМЕТ"
+                Clicked="ChoiceSubjects_Clicked"/>
+    </StackLayout>
+    </ScrollView>
+</ContentPage>

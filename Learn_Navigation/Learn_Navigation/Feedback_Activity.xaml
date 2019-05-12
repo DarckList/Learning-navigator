@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             x:Class="Learn_Navigation.Feedback_Activity">
+    <StackLayout BackgroundColor="White">
+        <Label x:Name="questionWithName"/>
+        <controls:BindableRadioGroup x:Name="ansPicker" CheckedChanged="ansPicker_CheckedChanged">
+        </controls:BindableRadioGroup>
+        <Label x:Name="questionWithSubj"/>
+            <StackLayout Orientation="Horizontal">
+                <controls:CheckBox x:Name="chbLecturi" DefaultText="Лекції"/>
+                <controls:CheckBox x:Name="chbPractic" DefaultText="Практичні"/>
+                <controls:CheckBox x:Name="chbLab" DefaultText="Лабораторні"/>
+            </StackLayout>
+            <Label Text="Обери який із предметів тобі найцікавіший"/>
+            <Picker x:Name="propPicker" Title="Предмет" PropertyChanged="PropPicker_PropertyChanged"/>
+            <ImageButton x:Name="btnImage" Source="button.png" BackgroundColor="White" HorizontalOptions="Center" Clicked="BtnImage_Clicked" />
+        </StackLayout>
+</ContentPage>

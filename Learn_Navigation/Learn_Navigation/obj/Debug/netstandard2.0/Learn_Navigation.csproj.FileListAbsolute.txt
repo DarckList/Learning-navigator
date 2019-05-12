@@ -1,0 +1,14 @@
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Learn_Navigation.csprojAssemblyReference.cache
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Learn_Navigation.csproj.CoreCompileInputs.cache
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Learn_Navigation.AssemblyInfoInputs.cache
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Learn_Navigation.AssemblyInfo.cs
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\bin\Debug\netstandard2.0\Learn_Navigation.deps.json
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\bin\Debug\netstandard2.0\Learn_Navigation.dll
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\bin\Debug\netstandard2.0\Learn_Navigation.pdb
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Login_Activity.xaml.g.cs
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Learn_Navigation.dll
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Learn_Navigation.pdb
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Feedback_Activity.xaml.g.cs
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\Receive_Activity.xaml.g.cs
+C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\obj\Debug\netstandard2.0\XamlC.stamp
