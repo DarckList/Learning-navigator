@@ -112,6 +112,4 @@ C:\Learn_Navigation\Learn_Navigation\Learn_Navigation.Android\obj\Debug\81\res\m
 C:\Learn_Navigation\Learn_Navigation\Learn_Navigation.Android\obj\Debug\81\res\mipmap-xhdpi\logo.png
 C:\Learn_Navigation\Learn_Navigation\Learn_Navigation.Android\obj\Debug\81\res\mipmap-xxhdpi\logo.png
 C:\Learn_Navigation\Learn_Navigation\Learn_Navigation.Android\obj\Debug\81\res\mipmap-xxxhdpi\logo.png
-C:\Learn_Navigation\Learn_Navigation\Learn_Navigation\bin\Debug\netstandard2.0\Learn_Navigation.dll
-C:\Learn_Navigation\Learn_Navigation\Learn_Navigation.Android\bin\Debug\Learn_Navigation.dll.mdb
 C:\Learn_Navigation\Learn_Navigation\Learn_Navigation.Android\obj\Debug\81\linksrc\Learn_Navigation.dll.mdb

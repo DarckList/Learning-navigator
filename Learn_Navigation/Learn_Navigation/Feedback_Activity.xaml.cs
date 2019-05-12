@@ -55,8 +55,8 @@ namespace Learn_Navigation
         private async void BtnImage_Clicked(object sender, EventArgs e)
         {
             if (chbLecturi.Checked) pullToCourseString = chbLecturi.Text;
-            if (chbLecturi.Checked) pullToCourseString += ", "+chbPractic.Text;
-            if (chbLecturi.Checked) pullToCourseString += ", "+chbLab.Text;
+            if (chbPractic.Checked) pullToCourseString += ", "+chbPractic.Text;
+            if (chbLab.Checked) pullToCourseString += ", "+chbLab.Text;
             await Navigation.PushModalAsync(new Receive_Activity());
         }
 
